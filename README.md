@@ -1,39 +1,29 @@
-# **오픈소스SW개발론**
-
 ### Introduction
-
+![](https://avatars.githubusercontent.com/u/48946398?s=400&u=344db9b7afc590af97986bd4ee0a4bf6d363641a&v=4)
 -------------
 ### Week1-1 강의 개요 (강의계획서)
-* 이런내용
-* 저런내용
+
 
 -------------
 ### Week1-2 오픈소스소프트웨어 개요
-* 이런내용
-* 저런내용
+
 
 -------------
 ### Week2-1 버전 관리 개요
-* 이런내용
-* 저런내용
+> git
+> svn
+
 
 -------------
 ### Week2-2 Git
-* 이런내용
-* 저런내용
-
-![Image] (그림.png)
+* `add`
+* `commit`
+* `push`
 
 -------------
 ### Week2-3 Github, fork, pull request
-* 이런내용
-  > 그런데 이런거
-* 저런내용
-  > 그런데 저런거
-
-[My Github Blog](https://github.com/kkanuseobin)
+** 다른 repository에 기여하는 방법**
 
 -------------
 ### Week3     Markdown
-* 이런내용
-* 저런내용
+[_실습_](https://www.markdowntutorial.com/lesson/1/)
